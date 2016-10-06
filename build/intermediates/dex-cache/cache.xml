@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_7cbaf6b4eae043e95dd97125014774e09f4d0793\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0_3d1d49374d1412bc1cfc54acec24b23fad09b7b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_86e04960b0d35a8c9dac6cd120520cd23c34206f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\pl.bclogic\pulsator4droid\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d0b572d823b1d937206234c5b0e9d16ff413fb7">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\pl.bclogic-pulsator4droid-1.0.3_e18326fb874fa459707f3b15371a68925b4f8b7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a5da43a75540266c4391ae2c7d7e3679ff196a8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_7dab031662449649df7bac8a683b1390f4665fb0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_5d373d305737564fc8acb7d56b2ea41ec6a76e6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_a98ec0b0b15df4b0076f4c4fe0933fd24baf7348\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="17e9b5fcf98c2f1ca7bf5753100890346aa0a9b9">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9a43cbbed24e4d4c8e3cb4eb3981d68d5841f39a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_782c88e1136339197d940f56f9925e0ba2646e1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6b68135e2cdcc9f8cc99619d70a69c590e53df6">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c48d407b0985979f8a64d2b4c6e260d1ed3a70e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_501c6480a41290bc8028d347b3ad23417df46950\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f2a54e7f38a7090339010a68d71085ff478eaee6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0_99bc483d32b955a748038aa0017fa0338d5073cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_4fb011bf16b77f11705cdec6b9116e85747b0445\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_2a578df70f4ea0d3f43e68d3f116ffd3f1f02984\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_1a236072653579edc3b009f07433f877fa4b1d4e\classes.dex" />
+    </item>
+
+</items>

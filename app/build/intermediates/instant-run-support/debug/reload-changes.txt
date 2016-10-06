@@ -1,0 +1,6 @@
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\star\shade\WelcomeActivity$1$override.class
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\star\shade\WelcomeActivity$2$override.class
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\star\shade\WelcomeActivity$override.class
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\star\shade\WelcomeActivity$MyViewPagerAdapter$override.class
+CHANGED,C:\Users\Star\AndroidStudioProjects\Shade\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\star\shade\WelcomeActivity$3$override.class
